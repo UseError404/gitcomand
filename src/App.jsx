@@ -36,6 +36,10 @@ function App() {
       </p>
 
     {/*    script     */}
+    {/*    script     */}
+    {/*    script     */}
+    {/*    script     */}
+    {/*    script     */}
 
     </>
   )
